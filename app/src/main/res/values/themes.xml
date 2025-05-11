@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme per attività non Compose -->
+    <style name="Theme.MiniBrowser" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colori primari e secondari -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Personalizzazione opzionale -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <!-- Tema per splash screen -->
+    <style name="Theme.MiniBrowser.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

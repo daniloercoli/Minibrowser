@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniBrowser</string>
+    <string name="enter_url">Inserisci URL</string>
+    <string name="go">Vai</string>
+    <string name="refresh">Ricarica</string>
+    <string name="settings">Impostazioni</string>
+    <string name="back">Indietro</string>
+    <string name="js_delay_title">Intervallo di disattivazione JavaScript</string>
+    <string name="js_delay_description">Dopo quanti millisecondi disattivare JavaScript al termine del caricamento della pagina:</string>
+    <string name="save">Salva</string>
+    <string name="ms">ms</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme per attività non Compose (modalità notturna) -->
+    <style name="Theme.MiniBrowser" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colori primari e secondari per modalità scura -->
+        <item name="colorPrimary">@color/primary_dark_theme</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_theme_variant</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/secondary_dark_theme</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark_theme_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Personalizzazione opzionale -->
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

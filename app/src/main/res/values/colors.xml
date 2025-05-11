@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colori base -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colori del tema chiaro -->
+    <color name="primary">#FF006A69</color>
+    <color name="primary_dark">#FF004F4F</color>
+    <color name="secondary">#FF4A6363</color>
+    <color name="secondary_dark">#FF334B4B</color>
+    <color name="background">#FFFAFDFC</color>
+
+    <!-- Colori del tema scuro -->
+    <color name="primary_dark_theme">#FF4CDADA</color>
+    <color name="primary_dark_theme_variant">#FF003737</color>
+    <color name="secondary_dark_theme">#FFB0CCCB</color>
+    <color name="secondary_dark_theme_variant">#FF1C3534</color>
+    <color name="background_dark">#FF191C1C</color>
+</resources>
