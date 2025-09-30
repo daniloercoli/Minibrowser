@@ -21,3 +21,4 @@ build/
 .idea/
 # Keystore (mai committarlo!)
 *.jks
+/app/release
